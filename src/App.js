@@ -1,5 +1,5 @@
 import React from 'react';
-import RollDice from './RollDice';
+import RollDice from './components/dice/RollDice';
 import './App.css';
 
 function App() {
